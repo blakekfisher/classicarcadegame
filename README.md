@@ -1,4 +1,4 @@
-##Frontend-Nanodegree-Arcade-Game
+# Frontend-Nanodegree-Arcade-Game
 
 **Table Of Contents**
 \-Running the application
